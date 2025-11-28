@@ -1,5 +1,6 @@
 # EX 3 : Circle Drawing Algorithm
-
+## NAME : AKASH M
+## REG NO : 212224230013
 **AIM :**
 
 To  implement the Bresenham’s  algorithm for circle using a c coding.
